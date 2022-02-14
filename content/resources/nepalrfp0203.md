@@ -4,7 +4,12 @@ description: This is a "Request for Proposals" which includes an explanatory not
   to prospective bidders, background information, and the basis for selection.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/f524d757ff5adda35d6a625cb3abe94b_NepalRFP0203.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: NepalRFP0203.pdf
+type: OCWFile
 uid: f524d757-ff5a-dda3-5d6a-625cb3abe94b
 ---

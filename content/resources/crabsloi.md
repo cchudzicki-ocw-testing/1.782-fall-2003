@@ -5,7 +5,12 @@ description: CRABS (Caribbean Research Association for the Betterment of water r
   and water resources evaluation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/64d67177e036165f44cbf1bb0789c2af_crabsloi.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: crabsloi.pdf
+type: OCWFile
 uid: 64d67177-e036-165f-44cb-f1bb0789c2af
 ---
