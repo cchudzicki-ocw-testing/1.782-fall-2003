@@ -16,6 +16,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: dstore_cbp.pdf
-type: OCWFile
 uid: 8d46eb4c-735c-8a01-35a5-4c14f625422d
 ---

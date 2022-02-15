@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: crabsloi.pdf
-type: OCWFile
 uid: 64d67177-e036-165f-44cb-f1bb0789c2af
 ---

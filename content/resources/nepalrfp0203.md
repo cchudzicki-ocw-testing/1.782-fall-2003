@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: NepalRFP0203.pdf
-type: OCWFile
 uid: f524d757-ff5a-dda3-5d6a-625cb3abe94b
 ---

@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: crabs_freport.pdf
-type: OCWFile
 uid: c70ff0c4-6995-4dbc-6126-1ed469d70b32
 ---

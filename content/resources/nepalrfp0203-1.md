@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: NepalRFP0203.pdf
-type: OCWFile
 uid: bd942e50-416f-aa21-df66-c4076e3d525c
 ---

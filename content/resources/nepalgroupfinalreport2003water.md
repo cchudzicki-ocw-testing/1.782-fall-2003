@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: NepalGroupFinalReport2003Water.pdf
-type: OCWFile
 uid: 3e09e9e6-eee1-da07-3532-3bffc880289e
 ---

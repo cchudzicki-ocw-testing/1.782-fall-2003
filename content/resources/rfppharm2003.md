@@ -11,6 +11,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: RFPPharm2003.pdf
-type: OCWFile
 uid: dc262432-2f9f-7cad-cf9c-b8dbcd2ca0f3
 ---

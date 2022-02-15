@@ -10,6 +10,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: final_preport.pdf
-type: OCWFile
 uid: 8152df1a-e0eb-d2da-2b90-b92b0450b614
 ---

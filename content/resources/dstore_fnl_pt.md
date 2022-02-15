@@ -11,6 +11,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: dstore_fnl_pt.pdf
-type: OCWFile
 uid: df21e734-26c8-84e0-0a39-fb7462e014be
 ---
